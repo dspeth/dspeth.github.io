@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Daan Speth"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Microbiologist, bioinformatician, "
+  avatar           : "/assets/images/bio_photo.jpeg"
+  bio              : "Microbiologist, bioinformatician"
   location         : "Pasadena CA"
   email            : "dspeth@caltech.edu"
   links:
