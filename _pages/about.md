@@ -1,12 +1,4 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: double
-      author_profile: true
 permalink: /about/
 ---
 
