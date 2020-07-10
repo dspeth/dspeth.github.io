@@ -5,10 +5,10 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: double
       author_profile: true
 permalink: /about/
 ---
 
-test page
+add some info about myself, sometime
 
