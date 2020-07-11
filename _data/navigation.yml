@@ -1,9 +1,15 @@
 # main links
 main:
+  - title: "In Vitro"
+    url: /vitro/
+  - title: "In Situ"
+    url: /situ/
+  - title: "In Silico"
+    url: /silico/
+  - title: "Links I like"
+    url: /links/
   - title: "About me"
-    url: https://dspeth.github.io/about
-  - title: "links I like"
-    url: https://dspeth.github.io/links 
+    url: /about/ 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
