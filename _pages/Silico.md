@@ -7,7 +7,7 @@ A page for bioinformatics based teaching and research
 
 ### Teaching  
   
-[BVCN](https://biovcnet.github.io/)
+[BVCN](https://biovcnet.github.io/)  
 The [Bioinformatics Vicrtual Coordination Network](https://biovcnet.github.io/) (BVCN) is a community driven effort 
 started by [Dr. Ben Tully](https://bjtully.github.io/) during the shutdown of many research institutes in the United Stated during the COVID-19 pandemic of 2020.
 The BVCN provides a slack channel where learners (and instructors) can ask questions of, and discuss approaches/tools with, more than 600 members. 
