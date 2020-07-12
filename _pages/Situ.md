@@ -1,6 +1,6 @@
 ---
 permalink: /situ/
-title: In Situ
+title: Fieldwork
 ---
 
 a page for fieldwork and to highight fieldsites

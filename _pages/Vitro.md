@@ -1,6 +1,6 @@
 ---
 permalink: /vitro/
-title: In Vitro
+title: Lab research and education
 ---
 
 A page for lab based research and teaching
