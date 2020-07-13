@@ -98,6 +98,8 @@ author:
   bio              : "(Geo)microbiologist, bioinformatician"
   location         : "Pasadena CA"
   email            : "dspeth@caltech.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0002-2361-5935"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
