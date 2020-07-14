@@ -29,11 +29,11 @@ After years of being a free resource, rising maintenance cost forced iToL to tra
 
 
 ### Rugby
-I've started playing rugby relatively late in life, while working on an internship at MIT. 
+I've started playing rugby relatively late in life, while working on an internship at MIT I joined [MIT Rugby](http://rugby.mit.edu/). 
 This was the first time I lived and worked in another country, and the rugby team was a big part of making that time and amazing experience. 
+When returning home for graduate school, I searched out [NSRV Obelix](http://www.nsrvobelix.nl/) in my hometown of Nijmegen, where i slowly got the hang of the game.
 The mix of grit and camaraderie you find in a rugby team make rugby a wonderful sport, especially if you find yourself moving to different countries.
-These are the clubs I've been a part of, if you find yourself in Cambridge MA, Nijmegen (NL), or Pasadena CA, check them out:    
-[MIT Rugby](http://rugby.mit.edu/), [NSRV Obelix](http://www.nsrvobelix.nl/), [Pasadena Rugby](https://www.pasadenarfc.com/)  
+Finally, after moving to Pasadena for a PostDoc, I found [Pasadena Rugby](https://www.pasadenarfc.com/), where I still play today.   
 
 ### Travel
 
