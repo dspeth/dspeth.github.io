@@ -1,6 +1,6 @@
 ---
 permalink: /vitro/
-title: Lab research and education
+title: Labwork
 ---
 
-A page for lab based research and teaching
+A page dedicated to research and teaching in the lab. Content coming soon

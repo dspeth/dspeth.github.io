@@ -3,7 +3,8 @@ permalink: /silico/
 title: Bioinformatics 
 ---
 
-A page for bioinformatics based teaching and research
+Highlights of my involvement in bioinformatics teaching and research.  
+Work in progress.
 
 ### Teaching  
   

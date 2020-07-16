@@ -3,6 +3,7 @@ permalink: /links/
 title: Links I like
 --- 
 The links on this page are a mixed bag of things I enjoy, find useful, or that have impacted my life one way or another, presented in no particular order. 
+Work in progress.  
 
 ### Science  
 On this site I use and discuss several resources that help me think about the microbial world. Here are the ones I use most heavily, with a brief description of each:
