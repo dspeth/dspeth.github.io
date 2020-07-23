@@ -6,6 +6,8 @@ main:
     url: /situ/
   - title: "In Silico"
     url: /silico/
+  - title: "Science for all"
+    url: /sciforall/
   - title: "Links I like"
     url: /links/
   - title: "About me"
