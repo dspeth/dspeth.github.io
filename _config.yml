@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-173914383-1"
     anonymize_ip         : # true, false (default)
 
 
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Daan Speth"
   avatar           : "/assets/images/bio_photo.jpeg"
-  bio              : "(Geo)microbiologist, bioinformatician"
+  bio              : "(Geo)microbiologist, bioinformatician, he/him"
   location         : "Pasadena CA"
   email            : "dspeth@caltech.edu"
   googlescholar    : "https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en"
