@@ -6,7 +6,7 @@ title: Science for All
 note: I'm slowly adding content to the site, but it is currently a work in progress.  
 
 
-Beyond the thrill of dicovery and a fascination with microbes, for me personally, a major draw of a career in academia has always been that I feel I can be myself in this community.
+Beyond the thrill of discovery and a fascination with microbes, for me personally, a major draw of a career in academia has always been that I feel I can be myself in this community.
 This is partly because I am a white man, and in addition my preferred style and bearing fit with stereotypes of what a (micro)biologist (can) look like. 
 As I am writing this in July 2020, I have only fairly recently realized what an enormous privilege that feeling is.
 From this perspective I am committed to make my communities, scientific and otherwise, as welcoming to all as they have always felt to me.   
@@ -34,4 +34,3 @@ A general awareness of those and how they impact interpersonal interaction is a 
 It is important to note that I haven't always actively contributed to a welcoming and safe community. 
 Never with malicious intent, but because of indifference or negligence born out of ignorance and naivety, and not recognizing how my perception differs from others. 
 This is not meant make excuses, but to illustrate that this page is not intended as performative, but rather to indicate I try better myself by listening and learning.
-
