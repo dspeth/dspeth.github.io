@@ -5,16 +5,16 @@ title: Fieldwork
 gallery:
   - url: /assets/images/fieldwork_edu1.jpg
     image_path: /assets/images/fieldwork_edu1.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "loaded for fieldwork"
+    title: "Fully packed vehicle, ready to start the field trip"
   - url: /assets/images/fieldwork_edu2.jpg
     image_path: /assets/images/fieldwork_edu2.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "tufa formation"
+    title: "Discussing possible mechanism of tufa formation at Mono Lake, CA"
   - url: /assets/images/fieldwork_edu3.jpg
     image_path: /assets/images/fieldwork_edu3.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+    alt: "CTD processing"
+    title: "On site CTD data processing, to inform target depth for water column sampling"
 
 ---
 
