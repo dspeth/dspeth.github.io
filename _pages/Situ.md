@@ -7,8 +7,6 @@ gallery:
     image_path: /assets/images/fieldwork_edu2.jpg
     alt: "tufa formation"
     title: "Discussing possible mechanisms of tufa formation at Mono Lake, CA"
-    alt: "loaded for fieldwork"
-    title: "Fully packed vehicle, ready to start the field trip"
   - url: /assets/images/fieldwork_edu3.jpg
     image_path: /assets/images/fieldwork_edu3.jpg
     alt: "CTD processing"
