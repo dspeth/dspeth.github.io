@@ -1,5 +1,5 @@
 ---
-title: "Edge Case: Many Tags"
+title: "Test post"
 tags:
   - test
   - one
@@ -7,6 +7,6 @@ tags:
   - three
 ---
 
-
-### Testing 1-2-3   
-Just a post for trying out how they work with the webpage
+Just a post to try out how they work with the webpage template, and to play with settings  
+  
+does this show up in the excerpt?
