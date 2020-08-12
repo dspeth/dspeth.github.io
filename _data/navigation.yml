@@ -10,10 +10,8 @@ main:
     url: /sciforall/
   - title: "Links I like"
     url: /links/
-  - title: "About me"
-    url: /about/ 
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Sample Posts"
+    url: /posts_by_year/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
