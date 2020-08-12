@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Posts"
+    url: /posts_by_year/
   - title: "In Vitro"
     url: /vitro/
   - title: "In Situ"
@@ -10,9 +12,3 @@ main:
     url: /sciforall/
   - title: "Links I like"
     url: /links/
-  - title: "Sample Posts"
-    url: /posts_by_year/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
