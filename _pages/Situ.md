@@ -22,7 +22,6 @@ Fieldsites and fieldwork.
 
 ### Teaching
 {% include gallery caption="Impressions of fieldwork during the international geobiology course." %}
-  
 Most of my experience teaching fieldwork has come from my role as one of the lead TAs for the 
 [International Geobiology Course](http://web.gps.caltech.edu/GBcourse/) (or GeoBio course for short) from 2017 to 2019. 
 The 2020 course was cancelled due to the COVID19 pandemic.  
