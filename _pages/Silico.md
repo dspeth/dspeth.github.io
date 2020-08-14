@@ -26,15 +26,29 @@ Outlining the course content here would take up a bit too much space, but will b
 ### Research 
   
 **Genomes from Metagenomes**  
-Our ability to recover genomes from environmental samples, through metagenomics and single cell based approaches, has tranformed our view of microbial diversity.  
-In addition, it has shed new light on the phylogenetic distribution and evolution of microbial metabolisms, such as methanogenesis.
-As a graduate student, I was an early adopter of genome resolved metagenomics, 
+Our ability to recover genomes from environmental samples, through metagenomics and single cell based approaches, 
+has tranformed our view of microbial diversity.In addition, it has shed new light on the phylogenetic distribution and evolution of microbial metabolisms,
+such as methanogenesis. As a graduate student, I was an early adopter of genome resolved metagenomics, 
 resulting in more genomic information on organisms capable of anaerobic ammonium oxidation (anammox bacteria). 
 In addition, a [community-wide analysis](https://www.nature.com/articles/ncomms11172) of an anammox reactor in the main line of a Dutch wastewater treatment plant 
 provided hypotheses for interactions of anammox bacteria and other nitrogen cycling organisms in these important systems. 
 Ongoing work in this area includes environmental metagenomics of extreme environments, such as a hydrothermal vent system and an alkaline soda lake.  
   
-**Marker gene mining**
+**Marker gene mining**  
+I use the phrase "marker gene mining" to mean searching for (metagenome) sequencing reads matching a specific protein family, 
+for example a marker for a certain metabolic process. I have used this method to [study the mcrA gene](https://peerj.com/articles/5614/), 
+which encodes the large subunit of the methyl-coenzyme M reductase, the last step of methanogenesis
+(or the first of methane oxidation using the same pathway). That study was useful to gain insight in global mcrA diversity, but in hindsight I 
+should have included sequencing data from the [IMG repository](https://img.jgi.doe.gov/), because that is where the most interesting novel data was,
+as shown later by [Borrel and colleagues](https://www.nature.com/articles/s41564-019-0363-3) 
+and [Wang and colleagues](https://www.nature.com/articles/s41564-019-0364-2).  
+Marker gene mining can be done using HMMs, if a good representation of the diversity of a gene family is available, or using sequence homology coupled with 
+false positive filtering using a BLAST score ratio (BSR) approach. The latter is my preferred method, 
+which I developed for [this work](https://peerj.com/articles/1924/), based on the comparative genomics work of 
+[Rasko and colleagues](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-2). For a sequencing read, determine the homology score 
+to the protein family of interest, and to a large set of sequences used as outgroup (such as the NCBI-nr protein database). 
+If the read has better homology to a sequence in the outgroup set than in the protein family set, its BSR will be (substantially) lower than one. 
+This allows for easy screening of true positives, regardless of the score of the original hit. The major caveat is that sufficient 
+homology needs to be present in the sequencing read, so this method might run into trouble with very divergent gene variants.   
     
-
 **ASM-clust: Protein superfamily analysis**
