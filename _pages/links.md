@@ -50,8 +50,8 @@ Finally, after moving to Pasadena for a Postdoc, I found [Pasadena Rugby](https:
   
 ### Travel  
 Traveling the world and seeing its sights and (perhaps most importantly) interacting with people with completely different perspectives is an amazing 
-experience. Working in science allows me to travel for work occasionally, such as for fieldwork , when taking some time to explore after a conference,
-or spend more time abroad by moving to Boston, and later LA. Working in science also means working with colleagues and friends from all over the world, 
+experience. Working in science allows me to travel for work occasionally, such as for fieldwork or when taking time to explore after a conference,
+or even live abroad which for me meant moving to Boston for a few months, and several years later to LA. Working in science also means working with colleagues and friends from all over the world, 
 which is always interesting. Finally I'm an avid traveller in my free time, from hitchhiking around Europe, to motorcycle travel in California and Africa,
 and "crazy" road trips with friends. The latter contributed to one of those friends (Joost Smets, who planned all of them) starting his own travel agency 
 for journeys to unconventional destinations: [This far and beyond](https://tothierenverder.nl/) (Tot hier en verder, link in Dutch).    
@@ -63,13 +63,14 @@ there are great stories in the main Marvel and DC universes, I most enjoy creato
 There are many many wonderful books like that published in the traditional way through (for example) DCs Vertigo imprint, Image, and Dark Horse.
 But webcomics (combined with crowdfunding) have allowed people to sidestep the traditional process and share their stories more directly. 
 Some of favourite examples are:  
-Ursula Vernon's [Digger](https://diggercomic.com/), a sprawling epic story about a lost wombat.  
-Evan Dahm's boundlessly creative Overside stories [Rice Boy](http://www.rice-boy.com/see/), [Order of Tales](http://www.rice-boy.com/order/), 
+- Ursula Vernon's [Digger](https://diggercomic.com/), a sprawling epic story about a lost wombat.  
+- Evan Dahm's boundlessly creative Overside stories [Rice Boy](http://www.rice-boy.com/see/), [Order of Tales](http://www.rice-boy.com/order/), 
 and [Vattu](http://rice-boy.com/vattu/) (story still unfolding).  
-Christopher Baldiwn's space opera comedy [Spacetrawler](https://www.baldwinpage.com/spacetrawler/2010/01/01/spacetrawler-4/), now in it's third series.  
-Der-shing Helmer's mars musing [Mare Internum](https://www.marecomic.com/), as well as fantasy epic [The Meek](https://www.meekcomic.com/)
+- Christopher Baldiwn's space opera comedy [Spacetrawler](https://www.baldwinpage.com/spacetrawler/2010/01/01/spacetrawler-4/), now in it's third series.  
+- Der-shing Helmer's mars musing [Mare Internum](https://www.marecomic.com/), as well as fantasy epic [The Meek](https://www.meekcomic.com/)
 (seemingly on hiatus).  
-Minna Sundberg's post-apocalyptic, cat-infused, Scandinavian story [Stand Still and Stay Silent](https://www.sssscomic.com/).
-Michelle Czajkowsi's ongoing absolutely gorgeous space fantasy story [Ava's Demon](https://www.avasdemon.com/).
-Anthony Clark & KC Green's wonderfully weird [BACK](https://www.backcomic.com/).   
-And, of course, the ever entertaining [xkcd](https://xkcd.com/) by Randall Munroe
+- Minna Sundberg's post-apocalyptic, cat-infused, Scandinavian story [Stand Still and Stay Silent](https://www.sssscomic.com/).  
+- Michelle Czajkowsi's ongoing absolutely gorgeous space fantasy story [Ava's Demon](https://www.avasdemon.com/).  
+- Tom Siddell's [Gunnerkrigg Court](https://www.gunnerkrigg.com/) about nature, magic, robots, growing up, and many many other things.  
+- Anthony Clark & KC Green's wonderfully weird [BACK](https://www.backcomic.com/).   
+- And, of course, the ever entertaining [xkcd](https://xkcd.com/) by Randall Munroe  
