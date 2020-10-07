@@ -34,4 +34,18 @@ My involvement in the GeoBio course has been one of the most rewarding experienc
   
 ### Research
 
-Content coming soon.
+**Pescadero Basin**   
+The primary field site I have done fieldwork at while in the Orphan lab is Pescadero Basin, a deep pull-apart basin at the southern edge of the 
+Gulf of California.   
+  
+**Mono Lake**  
+
+  
+**Olburgen Wastewater treatment facility**  
+The fieldwork during my PhD thesis research involved a 45 minute drive to the Wastewater treatment facility in Olburgen, The Netherlands. 
+This treatment plant processes both municipal and industrial (potato processing) wastewater, and it is the latter that I studied. The facility 
+for the treatment of potato processing wastewater in Olburgen is [very advanced](https://doi.org/10.2166/wst.2010.977) (paywalled link, unfortunately), 
+and incorporates one of the first anammox reactors operating in the main line of a wastewater treatment facility. This reactor allowed us to study
+how the theory behind partial-nitritation/anammox worked out in practice. While visually less exciting than hydrothermal vents at the bottom of the
+ocean, or bright green Mono Lake against a backdrop of a snow-capped mountain range, wastewater treatment plants offer exciting opportunities for
+microbial ecology!   

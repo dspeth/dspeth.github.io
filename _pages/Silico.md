@@ -52,3 +52,16 @@ This allows for easy screening of true positives, regardless of the score of the
 homology needs to be present in the sequencing read, so this method might run into trouble with very divergent gene variants.   
     
 **ASM-clust: Protein superfamily analysis**
+With increased availability of genome information across the tree of life, we get more and more information on the variation within protein families 
+as well. This allows us to study the evolutionary relationships of complex protein superfamilies that encompass proteins with many different functions.
+In most cases, only a few members of complex, functionally diverse, superfamilies have been biochemically characterized. Using a classification 
+approach on the ever increasing amount of protein sequence informaton, we can identify where the gaps in our knowledge are, and use that information
+to maximize impact of more challenging and time-consuming biochemical analyses. To this end, I've developed 
+[ASM-clust](https://www.biorxiv.org/content/10.1101/792739v1), an approach to classify protein families based on a matrix of pairwise alignment scores. 
+The apporach builds on the [sequence similarity network (SSN) method](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0004345) 
+developed in Prof. Patrica Babbitt's group, but rather than using all possible pairwise alignments, ASM-clust calculates only a subset of alignments and 
+compares the resulting alignment score profiles (i.e. similarity in multi-dimensional space). I'm excited about this, because the results can be visualized
+easily without specific software, i've tested it on protein families of 100,000+ sequences, and it handles multi-domain proteins well. I consider 
+elucidating the biochemistry of proteins of unknown function one of the great challenges of our time, as this functional diversity is a treasure trove
+of biotech potential, and I hope ASM-clust will contribute a little to progress in this area! 
+ 
