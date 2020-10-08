@@ -1,20 +1,35 @@
 ---
 permalink: /silico/
 title: Bioinformatics 
+
+gallery_research:
+  - url: /assets/images/bioinfo1_genomics.jpg
+    image_path: /assets/images/bioinfo1_genomics.jpg
+    alt: "manual binning"
+    title: "Using Anvi'o for binning of Pescadero Basin genomes"
+  - url: /assets/images/bioinfo3_ASMclust.jpg
+    image_path: /assets/images/bioinfo3_ASMclust.jpg
+    alt: "Protein classification"
+    title: "Testing ASM-clust on the enolase superfamily"
+  - url: /assets/images/bioinfo4_phylogeny.jpg
+    image_path: /assets/images/bioinfo4_phylogeny.jpg
+    alt: "Annotated phylogeny"
+    title: "Phylogenetic context of novel genomes"
+
 ---
 
-Highlights of my involvement in bioinformatics teaching and research.  
-Work in progress.
 
 ### Teaching  
   
 **BVCN**  
-The [Bioinformatics Vicrtual Coordination Network](https://biovcnet.github.io/) (BVCN) is a community driven effort 
+The [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/) (BVCN) is a community driven effort 
 started by [Dr. Ben Tully](https://bjtully.github.io/) during the shutdown of many research institutes in the United Stated during the COVID-19 pandemic of 2020.
 The BVCN provides a slack channel where learners (and instructors) can ask questions of, and discuss approaches/tools with, more than 600 members. 
 In addition, the [BVCN instructors](https://biovcnet.github.io/_pages/people/) release video tutorials on the [BVCN Youtube channel](youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low).
-Thus far, I have contributed videos on metagenomic binning [here](https://www.youtube.com/watch?v=g4T1xwO9yvI&list=PL4K-daRUS2A9kPIMSuEIOODwt5YK3OMuv) 
-and [here](https://www.youtube.com/watch?v=q9U0uTFRsl4&list=PL4K-daRUS2A9kPIMSuEIOODwt5YK3OMuv).
+Thus far, I have contributed videos on [metagenomic binning](https://www.youtube.com/watch?v=g4T1xwO9yvI)  
+and [bin evaluation](https://www.youtube.com/watch?v=DhHQW8Yzm6c). 
+These lessons were accompanied by a [DAS Tool demonstration](https://www.youtube.com/watch?v=q9U0uTFRsl4)
+and a [checkm tutorial](https://www.youtube.com/watch?v=dmCxfuiPwZs).
   
 **Brief History of Metagenomics**  
 I have co-taught a seminar course with Prof. Victoria Orphan, 
@@ -24,6 +39,8 @@ Outlining the course content here would take up a bit too much space, but will b
   
   
 ### Research 
+
+{% include gallery id="gallery_research" caption="Some Examples of my bioinformatics work" %}
   
 **Genomes from Metagenomes**  
 Our ability to recover genomes from environmental samples, through metagenomics and single cell based approaches, 
