@@ -2,7 +2,7 @@
 permalink: /situ/
 title: Fieldwork
 
-gallery:
+gallery_edu:
   - url: /assets/images/fieldwork_edu2.jpg
     image_path: /assets/images/fieldwork_edu2.jpg
     alt: "tufa formation"
@@ -34,7 +34,7 @@ gallery_research:
    
 
 ### Teaching
-{% include gallery caption="Impressions of fieldwork during the international geobiology course." %}
+{% include gallery id=gallery_edu caption="Impressions of fieldwork during the international geobiology course." %}
 
 Most of my experience teaching fieldwork has come from my role as one of the lead TAs for the 
 [International Geobiology Course](http://web.gps.caltech.edu/GBcourse/) (or GeoBio course for short) from 2017 to 2019. 
@@ -47,7 +47,7 @@ My involvement in the GeoBio course has been one of the most rewarding experienc
   
   
 ### Research
-{% include gallery_research caption="Fieldwork at Mono Lake and Pescadero Basin, wildly different boat sizes..." %}
+{% include gallery id=gallery_research caption="Fieldwork at Mono Lake and Pescadero Basin, wildly different boat sizes..." %}
 
 **Pescadero Basin**   
 My primary field site while in the Orphan lab is Pescadero Basin, a deep pull-apart basin at the southern edge of the Gulf of California. First discovered 
