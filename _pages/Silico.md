@@ -26,7 +26,7 @@ The [Bioinformatics Virtual Coordination Network](https://biovcnet.github.io/) (
 started by [Dr. Ben Tully](https://bjtully.github.io/) during the shutdown of many research institutes in the United Stated during the COVID-19 pandemic of 2020.
 The BVCN provides a slack channel where learners (and instructors) can ask questions of, and discuss approaches/tools with, more than 600 members. 
 In addition, the [BVCN instructors](https://biovcnet.github.io/_pages/people/) release video tutorials on the [BVCN Youtube channel](youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low).
-Thus far, I have contributed videos on [metagenomic binning](https://www.youtube.com/watch?v=g4T1xwO9yvI)  
+Thus far, I have contributed videos on [metagenomic binning](https://www.youtube.com/watch?v=g4T1xwO9yvI) 
 and [bin evaluation](https://www.youtube.com/watch?v=DhHQW8Yzm6c). 
 These lessons were accompanied by a [DAS Tool demonstration](https://www.youtube.com/watch?v=q9U0uTFRsl4)
 and a [checkm tutorial](https://www.youtube.com/watch?v=dmCxfuiPwZs).
