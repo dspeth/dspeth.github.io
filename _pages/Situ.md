@@ -35,9 +35,14 @@ My involvement in the GeoBio course has been one of the most rewarding experienc
 ### Research
 
 **Pescadero Basin**   
-The primary field site I have done fieldwork at while in the Orphan lab is Pescadero Basin, a deep pull-apart basin at the southern edge of the 
-Gulf of California.   
-  
+My primary field site while in the Orphan lab is Pescadero Basin, a deep pull-apart basin at the southern edge of the Gulf of California. First discovered 
+in by researchers from the Monterey Bay Aquarium Research Institute
+[in 2015](https://www.mbari.org/mbari-researchers-discover-deepest-known-high-temperature-hydrothermal-vents-in-pacific-ocean/) the hydrothermal vent field
+at Pescadero Basin is the deepest known vent field in the Pacific Ocean. In addition, its location at the southern tip of the Gulf of California 
+provides a unique point of comparison with the well-studied hydrothermal vent field at Guaymas Basin. The combination of the similarity in geological 
+context between these two sites, and their marked differences in depth and organic load creates an exciting opportunity to pull apart the factors 
+shaping the microbial communities at hydrothermal vents.     
+    
 **Mono Lake**  
 
   
