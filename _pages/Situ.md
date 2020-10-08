@@ -16,6 +16,20 @@ gallery:
     alt: "loaded for fieldwork"
     title: "Fully packed vehicle, ready to start the field trip"
 
+gallery_research:
+  - url: /assets/images/fieldwork1_mono.jpg
+    image_path: /assets/images/fieldwork1_mono.jpg
+    alt: "Sediment core boat"
+    title: "Sampling sediments in Mono Lake, CA"
+  - url: /assets/images/fieldwork2_pescadero.jpg
+    image_path: /assets/images/fieldwork2_pescadero.jpg
+    alt: "Sediment cores and microbial mats"
+    title: "Microbial mats indicate hydrothermal fluid flow through the sediment in Pescadero Basin"
+  - url: /assets/images/fieldwork3_pescadeo.jpg
+    image_path: /assets/images/fieldwork3_pescadero.jpg
+    alt: "Bringing a load of sediment cores from the ROV to the lab aboard RV Falkor"
+    title: "Big basket of sediment cores, straight from the ROV, on the way to the lab"
+
 ---
    
 
@@ -33,6 +47,7 @@ My involvement in the GeoBio course has been one of the most rewarding experienc
   
   
 ### Research
+{% include gallery_research caption="Fieldwork at Mono Lake and Pescadero Basin, wildly different boat sizes..." %}
 
 **Pescadero Basin**   
 My primary field site while in the Orphan lab is Pescadero Basin, a deep pull-apart basin at the southern edge of the Gulf of California. First discovered 

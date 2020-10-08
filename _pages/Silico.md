@@ -51,7 +51,7 @@ If the read has better homology to a sequence in the outgroup set than in the pr
 This allows for easy screening of true positives, regardless of the score of the original hit. The major caveat is that sufficient 
 homology needs to be present in the sequencing read, so this method might run into trouble with very divergent gene variants.   
     
-**ASM-clust: Protein superfamily analysis**
+**ASM-clust: Protein superfamily analysis**    
 With increased availability of genome information across the tree of life, we get more and more information on the variation within protein families 
 as well. This allows us to study the evolutionary relationships of complex protein superfamilies that encompass proteins with many different functions.
 In most cases, only a few members of complex, functionally diverse, superfamilies have been biochemically characterized. Using a classification 
