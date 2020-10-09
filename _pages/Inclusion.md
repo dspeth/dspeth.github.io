@@ -3,9 +3,6 @@ permalink: /sciforall/
 title: Science for All 
 ---
 
-note: I'm slowly adding content to the site, but it is currently a work in progress.  
-
-
 Beyond the thrill of discovery and a fascination with microbes, for me personally, a major draw of a career in academia has always been that I feel I can be myself in this community.
 This is partly because I am a white man, and in addition my preferred style and bearing fit with stereotypes of what a (micro)biologist (can) look like. 
 As I am writing this in July 2020, I have only fairly recently realized what an enormous privilege that feeling is.
