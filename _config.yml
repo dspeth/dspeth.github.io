@@ -98,8 +98,6 @@ author:
   bio              : "(Geo)microbiologist, bioinformatician, he/him"
   location         : "Pasadena CA"
   email            : "dspeth@caltech.edu"
-  googlescholar    : "https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-2361-5935"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -119,6 +117,14 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=1xoXn04AAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-2361-5935"
+
+
 
 # Site Footer
 footer:
