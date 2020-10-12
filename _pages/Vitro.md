@@ -7,7 +7,7 @@ For a thorough study of geobiology (or environmental microbiology) I believe it 
 More recently, a third component can be added to the list: sequence analysis, and bioinformatics more broadly. On the "in Situ", "in Vitro", 
 and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.     
    
-This page highlights my efforts in "wet" labwork.      
+This page focuses on my efforts in "wet" labwork.      
     
     
 ### Teaching   

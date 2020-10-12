@@ -31,3 +31,9 @@ A general awareness of those and how they impact interpersonal interaction is a 
 It is important to note that I haven't always actively contributed to a welcoming and safe community. 
 Never with malicious intent, but because of indifference or negligence born out of ignorance and naivety, and not recognizing how my perception differs from others. 
 This is not meant make excuses, but to illustrate that this page is not intended as performative, but rather to indicate I try better myself by listening and learning.
+   
+   
+**Resources to make Caltech's campus a more welcoming space**   
+- Caltech Center for Inclusion and Diversity [(CCID)](https://diversity.caltech.edu/) 
+- Geological and Planetary Sciences [diversity page]()
+- Biology and Biological Engineering [diversity & inclusion](https://www.bbe.caltech.edu/about/diversity-inclusion)

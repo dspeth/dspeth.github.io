@@ -20,8 +20,9 @@ gallery_research:
     
 For a thorough study of geobiology (or environmental microbiology) I believe it is vital to combine observations from the field with experiments in the lab.
 More recently, a third component can be added to the list: sequence analysis, and bioinformatics more broadly. On the "in Situ", "in Vitro",
-and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.
-This page is dedicated to Bioinformatics.
+and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.   
+   
+This page is showcases some approaches in bioinformatics.
     
     
 ### Teaching  
