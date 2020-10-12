@@ -35,5 +35,8 @@ This is not meant make excuses, but to illustrate that this page is not intended
    
 **Resources to make Caltech's campus a more welcoming space**   
 - Caltech Center for Inclusion and Diversity [(CCID)](https://diversity.caltech.edu/) 
-- Geological and Planetary Sciences [diversity page]()
+- Geological and Planetary Sciences [DEI resources](https://www.gps.caltech.edu/resources/dei-gps)
 - Biology and Biological Engineering [diversity & inclusion](https://www.bbe.caltech.edu/about/diversity-inclusion)
+
+**More broad links**
+- [Anti-racist resources](https://www.tobeantiracist.com/)
