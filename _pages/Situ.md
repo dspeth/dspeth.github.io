@@ -6,7 +6,7 @@ gallery_edu:
   - url: /assets/images/fieldwork_edu2.jpg
     image_path: /assets/images/fieldwork_edu2.jpg
     alt: "tufa formation"
-    title: "Discussing possible mechanisms of tufa formation at Mono Lake, CA"
+    title: "Discussing possible mechanisms of tufa formation at Mono Lake, CA (Photo: Rachel Weisend)"
   - url: /assets/images/fieldwork_edu3.jpg
     image_path: /assets/images/fieldwork_edu3.jpg
     alt: "CTD processing"
@@ -14,13 +14,13 @@ gallery_edu:
   - url: /assets/images/fieldwork_edu1.jpg
     image_path: /assets/images/fieldwork_edu1.jpg
     alt: "loaded for fieldwork"
-    title: "Fully packed vehicle, ready to start the field trip"
+    title: "Fully packed vehicle, ready to start the field trip (Photo: Danielle Potocek)"
 
 gallery_research:
   - url: /assets/images/fieldwork1_mono.jpg
     image_path: /assets/images/fieldwork1_mono.jpg
     alt: "Sediment core boat"
-    title: "Sampling sediments in Mono Lake, CA"
+    title: "Sampling sediments in Mono Lake, CA (Photo: Tina Woltz)"
   - url: /assets/images/fieldwork2_pescadero.jpg
     image_path: /assets/images/fieldwork2_pescadero.jpg
     alt: "Sediment cores and microbial mats"
@@ -28,7 +28,7 @@ gallery_research:
   - url: /assets/images/fieldwork3_pescadero.jpg
     image_path: /assets/images/fieldwork3_pescadero.jpg
     alt: "Bringing a load of sediment cores from the ROV to the lab aboard RV Falkor"
-    title: "Big basket of sediment cores, straight from the ROV, on the way to the lab"
+    title: "Big basket of sediment cores, straight from the ROV, on the way to the lab (Photo: Victoria Orphan)"
 
 ---
       
