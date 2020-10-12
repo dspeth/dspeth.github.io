@@ -1,6 +1,21 @@
 ---
 permalink: /vitro/
 title: Labwork
+
+gallery_research:
+  - url: /assets/images/labwork1_granules.jpg
+    image_path: /assets/images/labwork1_granules.jpg
+    alt: "granules"
+    title: "Pretreating raw Olburgen wastewater biomass (top) by washing granules (bottom)"
+  - url: /assets/images/labwork2_diatoms.jpg 
+    image_path: /assets/images/labwork2_diatoms.jpg
+    alt: "diatom"
+    title: "Pickled diatom, why are you still green?"
+  - url: /assets/images/labwork3_enrichment.jpg
+    image_path: /assets/images/labwork3_enrichment.jpg
+    alt: "Enrichment cultures"
+    title: "Anaerobic enrichment cultures"
+
 ---
 
 For a thorough study of geobiology (or environmental microbiology) I believe it is vital to combine observations from the field with experiments in the lab.
@@ -26,6 +41,8 @@ Q5 polymerase, the labwork fits in a single day, with the students extracting 6 
     
     
 ### Research   
+
+{% include gallery id="gallery_research" caption="Wet lab research, I clearly do not take enough photos at work..." %}
    
 **Experimental design for metagenomics studies**   
 in progress

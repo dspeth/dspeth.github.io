@@ -25,7 +25,7 @@ gallery_research:
     image_path: /assets/images/fieldwork2_pescadero.jpg
     alt: "Sediment cores and microbial mats"
     title: "Microbial mats indicate hydrothermal fluid flow through the sediment in Pescadero Basin"
-  - url: /assets/images/fieldwork3_pescadeo.jpg
+  - url: /assets/images/fieldwork3_pescadero.jpg
     image_path: /assets/images/fieldwork3_pescadero.jpg
     alt: "Bringing a load of sediment cores from the ROV to the lab aboard RV Falkor"
     title: "Big basket of sediment cores, straight from the ROV, on the way to the lab"
