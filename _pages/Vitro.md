@@ -6,13 +6,23 @@ title: Labwork
 For a thorough study of geobiology (or environmental microbiology) I believe it is vital to combine observations from the field with experiments in the lab.
 More recently, a third component can be added to the list: sequence analysis, and bioinformatics more broadly. On the "in Situ", "in Vitro", 
 and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.     
-This page is dedicated to the labwork I have done.      
+   
+This page highlights my efforts in "wet" labwork.      
     
     
 ### Teaching   
    
 **GeoBio course molecular biology module**   
-The International Geobiology course    
+The International Geobiology course brings together students from fields adjacent to geobiology (Bio/Chem/Geo) and gives them a taste of "the other side".
+As such, the Caltech hosted installments feature a whirlwind of different lab techniques, from nanoSIMS, to petrography, to molecular biology. For the last
+three years, I have been responsible for teaching the molecular biology section, which involves DNA extraction, a 16S rRNA gene PCR, and gel 
+electrophoresis. The follow-up barcoding PCR and pooling is then done by Dr. Stephanie Connon, and the turnaround time of the amplicon sequencing 
+is short enough that the students can then analyse their results in the final weeks of the course. The module starts with a refresher lecture on how DNA
+extraction, PCR, and gel electrophoresis work, and why we use the rRNA genes for amplicon sequencing. Using the Powersoil kit, and the highly processive 
+Q5 polymerase, the labwork fits in a single day, with the students extracting 6 samples each.   
+   
+    
+**Undergraduate (micro)biology courses** 
     
     
 ### Research   
