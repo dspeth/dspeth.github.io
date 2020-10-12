@@ -3,11 +3,18 @@ permalink: /vitro/
 title: Labwork
 ---
 
+For a thorough study of geobiology (or environmental microbiology) I believe it is vital to combine observations from the field with experiments in the lab.
+More recently, a third component can be added to the list: sequence analysis, and bioinformatics more broadly. On the "in Situ", "in Vitro", 
+and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.     
+This page is dedicated to the labwork I have done.      
+    
+    
 ### Teaching   
    
 **GeoBio course molecular biology module**   
-coming soon   
-
+The International Geobiology course    
+    
+    
 ### Research   
    
 **Experimental design for metagenomics studies**   
@@ -24,5 +31,5 @@ knowledge on growth requirements of uncultured organisms. One way we can attempt
 do that work for us. Using knowledge on the structural organization of microbial communities, we can enrich microbes with their natural partners 
 in reduced communities. Those reduced communities will be a valuable resource for eludication of the principles behind microbial "unculturability".   
     
-**Outlook: using sequence information to prioritize protein characterization**
+**Outlook: using sequence information to prioritize protein characterization**    
 in progress     

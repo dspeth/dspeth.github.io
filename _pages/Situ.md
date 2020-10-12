@@ -31,8 +31,13 @@ gallery_research:
     title: "Big basket of sediment cores, straight from the ROV, on the way to the lab"
 
 ---
+      
+For a thorough study of geobiology (or environmental microbiology) I believe it is vital to combine observations from the field with experiments in the lab.
+More recently, a third component can be added to the list: sequence analysis, and bioinformatics more broadly. On the "in Situ", "in Vitro",
+and "in Silico" pages of this site, I highlight some of my research and teaching efforts in these three components of geobiology.
+This page is dedicated to fieldwork.   
    
-
+   
 ### Teaching
 {% include gallery id="gallery_edu" caption="Impressions of fieldwork during the international geobiology course." %}
 
@@ -44,8 +49,8 @@ During the course, students get a taste of fieldwork with a focus on (micro)biol
 The field sites with more emphasis on (micro)biology the course visited during my tenure as TA included Mono Lake, 
 the hot springs of Little Hot Creek, and the tar seeps of sulfur mountain.
 My involvement in the GeoBio course has been one of the most rewarding experiences of my time at Caltech. 
-  
-  
+   
+   
 ### Research
 {% include gallery id="gallery_research" caption="Fieldwork at Mono Lake and Pescadero Basin" %}
 
