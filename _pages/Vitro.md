@@ -37,15 +37,21 @@ extraction, PCR, and gel electrophoresis work, and why we use the rRNA genes for
 Q5 polymerase, the labwork fits in a single day, with the students extracting 6 samples each.   
    
     
-**Undergraduate (micro)biology courses** 
+**Undergraduate (micro)biology courses**  
+As an undergraduate student, MSc student, and PhD student at the Radboud university, I have TA'd the practical components of a wide range of biology
+courses, but it is the "introduction to microbiology" that I am the most fond off. While most students are aware microbes exist, the extent of their 
+presence in everyday life and their role in society is frequently underappreciated. Guiding students through that eye-opening experience is something
+i fondly hope I'll be involved in again soon.    
     
     
 ### Research   
 
 {% include gallery id="gallery_research" caption="Wet lab research, I clearly do not take enough photos at work..." %}
    
+   
 **Experimental design for metagenomics studies**   
 in progress
+
     
 **Co-cultivation of "unculturable" microorganisms**  
 The rapid advances in DNA sequencing and analysis of sequencing data have been transformative for our understanding of microbial diversity. The 
