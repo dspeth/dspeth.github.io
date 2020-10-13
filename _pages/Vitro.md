@@ -50,9 +50,14 @@ i fondly hope I'll be involved in again soon.
    
    
 **Experimental design for metagenomics studies**   
-in progress
-
-    
+At its most straightforward, the lab component of metagenomic sequencing involves extracting DNA from an environment, preparing a library for the
+sequencing method of choice, and sequencing the library. In many cases, the second and third steps are done through a commercial provider. To facilitate 
+downstream analysis and metagenome assembled genome (MAG) recovery, having multiple related samples (e.g. horizons of fhe same sediment core) is very
+helpful. Alternatively, or in addition, samples can be treated or partitioned to get meaningful information about the physiology of the constiutuent 
+organisms. For example, in our study of a [partial nitritation reactor](https://www.nature.com/articles/ncomms11172) at a wastewater treatment plant,
+washing the granules enriched for the organisms inhabitng the anaerobic niches only found in the centers of the granules. Designing sequecning 
+experiments with the environmental structure in mind can greatly enhance the interpretation of the microbial ecosystem function.   
+     
 **Co-cultivation of "unculturable" microorganisms**  
 The rapid advances in DNA sequencing and analysis of sequencing data have been transformative for our understanding of microbial diversity. The 
 developement of genome resolved metagenomics has added many new branches to the tree of life, but one of the major challenges in the interpretation 
