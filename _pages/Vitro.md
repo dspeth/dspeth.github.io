@@ -69,5 +69,11 @@ knowledge on growth requirements of uncultured organisms. One way we can attempt
 do that work for us. Using knowledge on the structural organization of microbial communities, we can enrich microbes with their natural partners 
 in reduced communities. Those reduced communities will be a valuable resource for eludication of the principles behind microbial "unculturability".   
     
-**Outlook: using sequence information to prioritize protein characterization**    
-in progress     
+**Outlook: using sequence information to prioritize protein characterization**   
+As we use the genomic toolbox to explore more and more ecosystems, and add more divergent branches to the tree of life, more protein families will
+emerge and existing ones will expand. We primarily annotate all these new proteins using homology, which is incredibly sensitive to error propagation.
+So, with increasing numbers of protein sequences available, it will pay to take a hard look at the protein families we know something about and see if it is 
+indeed reasonable to assume all members of the family catalyze the same (set of) reactions. Protein classification is a way to approach this challenge,
+and I briefly discuss my take on this, [ASM-clust](https://www.biorxiv.org/content/10.1101/792739v1), on the "Silico" page of this site. But classification
+is mostly useful as a way to prioritize targets for experimental verification. This is one of the challenges I aim to address in my work going forward.
+       
