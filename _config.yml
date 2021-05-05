@@ -98,8 +98,8 @@ author:
   name             : "Daan Speth"
   avatar           : "/assets/images/bio_photo.jpeg"
   bio              : "(Geo)microbiologist, bioinformatician, he/him"
-  location         : "Pasadena CA"
-  email            : "dspeth@caltech.edu"
+  location         : "Bremen, Germany"
+  email            : "daanspeth@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
