@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "Daan Speth"
   avatar           : "/assets/images/bio_photo.jpeg"
-  bio              : "(Geo)microbiologist, bioinformatician, he/him"
-  location         : "Bremen, Germany"
+  bio              : "microbiologist, bioinformatician, he/him"
+  location         : "Vienna, Austria"
   email            : "daanspeth@gmail.com"
   links:
     - label: "Email"
@@ -107,9 +107,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/daanspeth"
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-square-bluesky"
+      url: "https://bsky.app/profile/daanspeth.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -131,9 +131,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/daanspeth" 
+    - label: "BlueSky"
+      icon: "fab fa-fw fa-square-bluesky"
+      url: "https://bsky.app/profile/daanspeth.bsky.social" 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
